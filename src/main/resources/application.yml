@@ -5,7 +5,5 @@ eureka:
   client:
     register-with-eureka: false
     fetch-registry: false
-  application:
-    name: ORDER-SERVICE
 server:
   port: 8761
